@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Lab3sem
 {
-    class Program
+    class Program // Обозначаем класс
     {
         static void Main(string[] args)
         {
