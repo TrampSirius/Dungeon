@@ -1,0 +1,16 @@
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.csprojAssemblyReference.cache
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.AssemblyInfoInputs.cache
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.AssemblyInfo.cs
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.csproj.CoreCompileInputs.cache
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\Lab3sem.exe
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\Lab3sem.deps.json
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\Lab3sem.runtimeconfig.json
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\Lab3sem.runtimeconfig.dev.json
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\Lab3sem.dll
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\ref\Lab3sem.dll
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\bin\Debug\net5.0\Lab3sem.pdb
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.dll
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\ref\Lab3sem.dll
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.pdb
+C:\Users\sirius\source\repos\Lab3sem\Lab3sem\obj\Debug\net5.0\Lab3sem.genruntimeconfig.cache
