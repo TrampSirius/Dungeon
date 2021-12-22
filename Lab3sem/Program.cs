@@ -12,7 +12,7 @@ namespace Lab3sem
             sw.Write("Пусть каждый день твой будет светлым, "); // Выводим текст
             sw.WriteLine("приятным, радостным и щедрым!"); // Выводим текст на новую строку
             sw.Close();
-            File.Move("file.txt", "file2.txt"); // Переименование
+            File.Move("file.txt", "file2.txt"); // Переименование файла
             FileInfo fileInfo = new FileInfo("file2.txt");
             Console.WriteLine("File {0} is {1} bytes in length, created on {2}",
             fileInfo.FullName, fileInfo.Length, fileInfo.CreationTime);
@@ -27,3 +27,4 @@ namespace Lab3sem
         }
     }
 }
+// Конец кода
