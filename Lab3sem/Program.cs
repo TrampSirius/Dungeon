@@ -9,8 +9,8 @@ namespace Lab3sem
         {
             File.Delete("file2.txt"); // Удалить файл "file2.txt" 
             StreamWriter sw = System.IO.File.CreateText("file.txt");
-            sw.Write("Пусть каждый день твой будет светлым, ");
-            sw.WriteLine("приятным, радостным и щедрым!");
+            sw.Write("Пусть каждый день твой будет светлым, "); // Выводим текст
+            sw.WriteLine("приятным, радостным и щедрым!"); // Выводим текст на новую строку
             sw.Close();
             File.Move("file.txt", "file2.txt"); // Переименование
             FileInfo fileInfo = new FileInfo("file2.txt");
